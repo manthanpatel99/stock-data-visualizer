@@ -1,0 +1,4 @@
+C:\Users\shrij\source\repos\CppCLR_WinFormsProject1 - BindingList\CppCLR_WinFormsProject1\x64\Release\CppCLR_WinFormsProject1.vcxproj.AssemblyReference.cache
+C:\Users\shrij\source\repos\CppCLR_WinFormsProject1 - BindingList\CppCLR_WinFormsProject1\x64\Release\CppCLR_WinFormsProject1.Form1.resources
+C:\Users\shrij\source\repos\CppCLR_WinFormsProject1 - BindingList\CppCLR_WinFormsProject1\x64\Release\CppCLR_WinFormsProject1.MyForm.resources
+C:\Users\shrij\source\repos\CppCLR_WinFormsProject1 - BindingList\CppCLR_WinFormsProject1\x64\Release\CppCLR_WinFormsProject1.vcxproj.GenerateResource.cache
