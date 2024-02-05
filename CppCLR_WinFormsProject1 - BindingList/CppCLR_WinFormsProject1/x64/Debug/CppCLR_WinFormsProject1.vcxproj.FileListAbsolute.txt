@@ -1,3 +1,0 @@
-C:\Users\shrij\source\repos\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.AssemblyReference.cache
-C:\Users\shrij\source\repos\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.Form1.resources
-C:\Users\shrij\source\repos\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.GenerateResource.cache
